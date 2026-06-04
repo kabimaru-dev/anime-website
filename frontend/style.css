@@ -1,0 +1,73 @@
+body {
+    background-image: url("images/tokyo-night-cityscape-anime-te.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+button {
+    background-color: rgba(255, 255, 255, 0%);
+    height: 38px;
+    width: 150px;
+    color: white;
+    border: none;
+    border-radius: 18px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 15px;
+
+    position: absolute;
+}
+button:hover {
+    background-color: rgba(255, 255, 255, 50%);
+}
+button:active {
+    background-color: rgba(255, 255, 255, 70%);
+}
+
+/* buttons class here: Logo, Login, Support */
+.Logo-Button {
+    top: 1%;
+    left: 1%;
+}
+.Logo-Button:hover {
+    background-color: rgba(255, 255, 255, 0%);
+}
+.Logo-Button:active {
+    background-color: rgba(255, 255, 255, 0%);
+}
+
+.Login-Button {    
+    transition: 100ms;
+    transition: background-color 50ms,
+        color 50ms;
+
+    top: 1%;
+    left: 92%;
+}
+.Login-Button:hover {
+    color: black;
+}
+
+.Support-Button {
+    top: 96%;
+    left: 92%;
+}
+
+.Hello-World {
+    top: 1%;
+    left: 35%;
+}
+
+.Hello-World2 {
+    top: 1%;
+    left: 43%;
+}
+
+.Hello-World3 {
+    top: 1%;
+    left: 51%;
+}
+
+.Hello-World4 {
+    top: 1%;
+    left: 59%;
+}
