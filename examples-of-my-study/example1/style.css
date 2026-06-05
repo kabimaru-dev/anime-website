@@ -1,0 +1,42 @@
+body {
+  display: flex;
+
+  /* my reminds: annoying situation  */
+  /*             without this, will be automatically 8px, if it's 8px, it means, your screen is not fully filled */
+  margin: 0px;
+}
+
+.example {
+  width: 50%;
+}
+
+.content {
+  background: #333;
+  height: 300px;
+
+  margin: 1px;
+}
+
+.content.one {
+  height: 100px;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  background: limegreen;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2em;
+}
+
+.fixed {
+  position: fixed;
+}
+
+.sticky {
+  position: sticky;
+  top: 0;
+}
+

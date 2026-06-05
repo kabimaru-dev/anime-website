@@ -1,15 +1,40 @@
 
 
 references:
-	https://www.youtube.com/watch?v=G3e-cpL7ofc
-	https://www.youtube.com/watch?v=EerdGm-ehJQ
-	https://www.youtube.com/watch?v=qOhyFgE-8gY
-	https://www.youtube.com/watch?v=dzqDU9efnnk
-		https://phosphoricons.com/
+	31.05 - 03.06
+		html/css
+			https://www.youtube.com/watch?v=G3e-cpL7ofc
+		JavaScript
+			https://www.youtube.com/watch?v=EerdGm-ehJQ
+		Anime-website example1
+			https://www.youtube.com/watch?v=qOhyFgE-8gY
+		Little understanding of html/css/JavaScript
+			https://www.youtube.com/watch?v=dzqDU9efnnk
+			https://phosphoricons.com/
+		Little understanding of web-design in Inkscape(analog app of Adobe Illustrator)
+			https://www.youtube.com/watch?v=I-_JVNCGuo8
+	
+	04.06
+		JQuery - for understanding (russian language, please, use autoDUBed English voice by youtube, for hear only english).
+			https://www.youtube.com/watch?v=e5Oib9wkZHs&t=3815s
+		css grid, understanding of css grid very quickly.
+			https://www.youtube.com/watch?v=JYfiaSKeYhE
+				https://www.youtube.com/watch?v=EiNiSFIPIQE
+
+	05.06
+		explain different css positions
+			https://youtu.be/YEmdHbQBCSQ?si=k8e8RpvJBl_NZaZa
+
+		example-of-my-study/example1
+			https://www.kevinpowell.co/article/positition-fixed-vs-sticky/
+		example-of-my-study/example1->example2
+			https://www.youtube.com/watch?v=1cYzyVJbfuM&list=PLu-PQA1gogYIvYjh-RX7CLTjCw2wR65ci&index=4
+			
+		css-reset, from 2008 the rule, but everybody should to know about it (in russian, please use page translator plugin or whatever else).
+			https://habr.com/ru/articles/45296/
+
 		
-	https://www.youtube.com/watch?v=Oe421EPjeBE
-	https://www.youtube.com/watch?v=I-_JVNCGuo8
-	https://www.youtube.com/watch?v=JYfiaSKeYhE
+		
 	
 
 https://www.youtube.com/watch?v=5sohKNjKF5k
