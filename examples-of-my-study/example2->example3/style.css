@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  background-color: #888;
+}
+
+div.container {
+  width: 100%;
+
+  transition: 1s;
+  
+  position: fixed;
+}

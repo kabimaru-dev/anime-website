@@ -213,6 +213,6 @@ button:active {
 
 @media (min-width: 1320px) {
   .grid-container-basic { 
-    grid-template-columns: 330px 330px 330px 330px; /* 1660 ÷ 4 = 415*/
+    grid-template-columns: 330px 330px 330px 330px; /* 1320 ÷ 4 = 330*/
   }
 }

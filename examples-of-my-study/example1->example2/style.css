@@ -32,15 +32,9 @@ body {
 .nav .container {
   display: flex;
 
-  transition: 999ms;
+  transition: 1s;
 }
 
 .nav.active {
   background-color: red;
 }
-
-.nav.deactive {
-  background-color: white;
-}
-
-
