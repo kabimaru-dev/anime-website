@@ -33,7 +33,31 @@ references:
 		css-reset, from 2008 the rule, but everybody should to know about it (in russian, please use page translator plugin or whatever else).
 			https://habr.com/ru/articles/45296/
 
+	06.06
+		was just a practice on JavaScript.
+
+	07.06
+		after 20 minutes i get that i don't know well React.
+		for understanding what i do, you need see this video for 20 minutes:
+			https://www.youtube.com/watch?v=qOhyFgE-8gY
 		
+
+		anyway i have APIs backend server, which in the Wide World.
+		follow the documentation of API it's just give you an access to do the GET, POST request
+		i mean, jikan is a outsource backend, it's a good way for practice and fast make a pet project. 
+		so, request to backend is here:
+			https://jikan.moe/#how-it-works
+		
+		ajax.js lib, besides fetch() from vanilla JavaScript.
+			https://github.com/fdaciuk/ajax
+
+		And how ajax works
+			https://www.youtube.com/watch?v=rIF_tIK2Gfg
+
+		than we try to open from JavaScript Object the Array from backend, and i need more study JavaScript...
+		for example:
+			https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
+
 		
 	
 
