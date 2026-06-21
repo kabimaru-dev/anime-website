@@ -1,0 +1,26 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "just my backend, from Viacheslav Chubenko",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kabimaru-dev/anime-website.git"
+  },
+  "keywords": [
+    "jikan-backend-database-outsource",
+    "node-backend",
+    "react-frontend",
+    "mongodb-database"
+  ],
+  "author": "Viacheslav Chubenko",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/kabimaru-dev/anime-website/issues"
+  },
+  "homepage": "https://github.com/kabimaru-dev/anime-website#readme"
+}
