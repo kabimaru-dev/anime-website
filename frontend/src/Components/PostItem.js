@@ -1,8 +1,6 @@
-import React from "react";
 import Counter from "./Counter";
 
 const PostItem = (props) => {
-  console.log(props);
   return (
     <div className="post">
       <Counter />

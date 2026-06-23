@@ -1,5 +1,4 @@
-import React, { useState } from "react";
-import Counter from "./Components/Counter";
+import { useState } from "react";
 import "./styles/App.css";
 import PostList from "./Components/PostList";
 
@@ -15,16 +14,21 @@ function App() {
     { id: 3, title: "Python3", body: "Description3" },
   ]);
 
+  const fps = [30, 60, 90].map((multiplier) => {
+    return multiplier * 2;
+  });
+
+  const bbb = (item) => {
+    return console.log(item);
+  };
+
   return (
     <div className="App">
-      <PostList
-        posts={posts}
-        title={"Video Video Video Video Video Video Video"}
-      />
-      <PostList
-        posts={posts2}
-        title={"Video Video Video Video Video Video Video"}
-      />
+      <div className="start">
+        {fps.map((item) => {
+          return console.log(item);
+        })}
+      </div>
     </div>
   );
 }
