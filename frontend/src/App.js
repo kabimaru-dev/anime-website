@@ -1,6 +1,17 @@
-function App() {
+import React from "react";
+import Counter from "./Components/Counter";
+
+function App() {  
   return (
-    <p>Hello World!</p>
+    <div className="App">
+      <Counter />
+      <Counter />
+      <Counter />
+      <Counter />
+      <Counter />
+      <Counter />
+      <Counter />
+    </div>
   );
 }
 
