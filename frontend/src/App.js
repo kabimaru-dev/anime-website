@@ -2,7 +2,6 @@ import "./styles/App.css";
 
 function App() {
   let age = 18;
-
   let array = [18, 14, 26];
 
   return (
@@ -10,15 +9,13 @@ function App() {
       <div className="start">
         {array.map((age, index) => {
           if (age >= 18) {
-            <div key={index}>good</div>;
             console.log(" ");
             console.log("good");
-            index++;
+            return <div key={index++}>good</div>;
           } else {
-            <div key={index}>bad</div>;
             console.log(" ");
             console.log("bad");
-            index++;
+            return <div key={index++}>bad</div>;
           }
         })}
       </div>
