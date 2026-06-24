@@ -5,14 +5,40 @@
 }
 
 #root {
-  display: flex;
-  justify-content: center;
 }
 
-.post {
-  border-radius: 2px;
-  padding: 15px;
-  border: 2px solid teal;
-  margin-top: 15px;
-  font-size: 12px;
+.header {
+  background-color: black;
+  height: 42px;
+  width: 100vw;
+}
+
+div.text {
+  display: grid;
+  grid-template-columns: 150px 150px 150px 150px;
+  grid-template-rows: 25px;
+  grid-auto-flow: column;
+
+  justify-content: center;
+  align-items: center;
+}
+
+h1.home {
+  color: white;
+  text-align: center;
+}
+
+h1.top {
+  color: white;
+  text-align: center;
+}
+
+h1.seasons {
+  color: white;
+  text-align: center;
+}
+
+h1.manga {
+  color: white;
+  text-align: center;
 }
