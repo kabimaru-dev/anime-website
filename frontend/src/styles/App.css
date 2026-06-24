@@ -55,3 +55,24 @@ div.manga {
   color: white;
   text-align: center;
 }
+
+div.main {
+  background-color: wheat;
+  width: 100vw;
+
+  justify-items: center;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+}
+
+div.footer {
+  background-color: black;
+  height: 137px;
+  width: 100vw;
+
+  justify-items: center;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+}
