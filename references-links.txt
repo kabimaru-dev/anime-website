@@ -57,6 +57,33 @@ references:
 		than we try to open from JavaScript Object the Array from backend, and i need more study JavaScript...
 		for example:
 			https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
+			
+			
+			
+	25.06
+		https://www.youtube.com/watch?v=9ut6CWNCE4g
+		https://www.youtube.com/watch?v=qOhyFgE-8gY
+		https://www.google.com/search?q=site%3Ayoutube.com+styled-components+alternatives&client=firefox-b-d&hs=9HTV&sca_esv=6de80325d8c97b9b&udm=2&biw=1840&bih=1106&ei=qVE8avHiA4Sqxc8Pn_O44Ac&ved=0ahUKEwix26eo7qCVAxUEVfEDHZ85DnwQ4dUDCBM&uact=5&oq=site%3Ayoutube.com+styled-components+alternatives&gs_lp=Egtnd3Mtd2l6LWltZyIvc2l0ZTp5b3V0dWJlLmNvbSBzdHlsZWQtY29tcG9uZW50cyBhbHRlcm5hdGl2ZXNIxDBQ_wJY5C9wBXgAkAEAmAGLAqABogyqAQYxNS4xLjG4AQPIAQD4AQGYAgCgAgCYAwCIBgGSBwCgB8wBsgcAuAcAwgcAyAcAgAgB&sclient=gws-wiz-img
+		https://www.youtube.com/watch?v=37v7aR63LTM
+		https://www.youtube.com/watch?v=6pvhyRMdV04
+		https://www.youtube.com/watch?v=uqKoqcO08ho
+		https://www.youtube.com/watch?v=P9iPATix0u0
+		https://www.youtube.com/watch?v=RqwnR2osQqc
+		https://styled-components.com/
+		https://www.google.com/search?client=firefox-b-d&hs=QITV&sa=X&sca_esv=e5b3c94426f10df7&udm=2&fbs=ABfTbFUvJaYeGREFnc6yHQa-u7MJ083bOtNnoyql3UnIEN7NFj1yG6nBXbGgnQuKWYbAbS_2s1y0cJZlEkJIXtO6cSMObfP5mmtYbEssSCAQhs5acLRCeLYBj33LwW6uWe159XRkpvownWl4lP5gRLRsS6R9T5NxvVf26CMsthdcZzi8VNLv63kByj7qvVSjR0wWp6f184W7H9Z9HeBpJlsgeHMdYVyHVTrudgvhBTQWeIye4tMy9eA19icpHNX2XTu8o1hocUdD&q=site:youtube.com+React+CSS+Modules&ved=2ahUKEwjo9JyI8qCVAxXfBdsEHfP1EzUQtKgLegQIGBAB&biw=1840&bih=1106&dpr=1#ip=1&sv=CAMSURoyKhBlLV9lMUJSQno3OXIxWDdNMg5fZTFCUkJ6NzlyMVg3TToOaHVXVm9OMzFKalhwaE0gBCoXCgFzEhBlLV9lMUJSQno3OXIxWDdNGAEwARgHILDY9IAOSggQARgBIAEoAQ
+		https://www.w3schools.com/REACT/react_css_modules.asp
+		https://www.youtube.com/watch?v=GNrdg3PzpJQ (RU, ulbi tv, react)
+		https://www.google.com/search?client=firefox-b-d&hs=nxn&sca_esv=e5b3c94426f10df7&udm=7&fbs=ABfTbFUvJaYeGREFnc6yHQa-u7MJ083bOtNnoyql3UnIEN7NFj1yG6nBXbGgnQuKWYbAbS_2s1y0cJZlEkJIXtO6cSMObfP5mmtYbEssSCAQhs5acLRCeLYBj33LwW6uWe159XRkpvownWl4lP5gRLRsS6R9T5NxvVf26CMsthdcZzi8VNLv63kByj7qvVSjR0wWp6f184W7H9Z9HeBpJlsgeHMdYVyHVTrudgvhBTQWeIye4tMy9eA19icpHNX2XTu8o1hocUdD&q=site:youtube.com+React+CSS+Modules&sa=X&ved=2ahUKEwiR2pSf8qCVAxUsSfEDHRRpHHsQtKgLegQIGxAB&biw=1840&bih=1106&dpr=1#ip=1
+		https://www.youtube.com/watch?v=fgZ1t6Auzik
+		https://www.youtube.com/watch?v=xcWkwjC8Mbw (RU, Александр Ламков — Friendly Frontend, Why Not Tailwind or CSS-in-JS?)
+		https://www.w3schools.com/css/css3_images.asp
+		https://stackoverflow.com/questions/20033712/html-img-src-wont-load-my-images
+		https://www.reddit.com/r/css/comments/tl5jda/what_is_the_best_way_to_crop_an_image_with_css/
+		https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/object-fit
+		https://developer.mozilla.org/en-US/play?uuid=619e83cbd5338287abb23c78f26d4b3ec6a5c963&state=tVTLbsIwEPyV1Z55BKpeXODSHtt%2BgSVknCVx63gj2%2BVR1H%2BvHCBpCz0Bx%2BzMzuzEXu%2BwjJVFgZNAOhp2M%2BkAJuV4xos30rG%2FNFHA0lg7GZbjPWiqArRVIUwlJkQiBK%2BnEqvczS0XPGdnt3PNlv2gdoVEUDZOJb48vcIzFywRhjPpzoqBU97z%2BiLNP9NrdlEZdz7AAbxahoPeTWKsyP8XYkX%2BihFW5G8QwLGj8%2FMn5GrjJ7EbTB%2B0stTPef3PRerwqyXpJC%2FMMxl224091CGgwHIMu2S5ZBf7S1UZuxUg8ZE%2FvCEPr7SW2IOKHYdaaXpoucF8koARVU2pUr4wrvmGDLLBXVP%2FSnFSlsZibfJYChjdZ%2FWmaSrJFGUUMMqOlQX7nLyAUb2BwNbksLBKv%2F%2B2yOoNZEf1wf6f%2FHZo9VqHg%2Be%2BpXlhmoa%2Fz1tLOS7wCesA%2FCCmNTlDW5HvZkyX8YSTqi3lxymfEDtsT8cevqWzwx7GkipCgbny7%2Fj1DQ%3D%3D&srcPrefix=%2Fen-US%2Fdocs%2FWeb%2FCSS%2FReference%2FProperties%2Fobject-fit%2F
+		https://html-css-js.com/
+
+		
 
 		
 	

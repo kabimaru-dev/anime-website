@@ -1,5 +1,37 @@
+import styles from "./AnimePopular.module.css";
+
 function AnimePopular() {
-  return <div>AnimePopular</div>;
+  return (
+    <div className={`${styles.animePopular}`}>
+      <div>
+        <img src="" />
+      </div>
+      <div>
+        <img src="" />
+      </div>
+      <div>
+        <img src="" />
+      </div>
+      <div>
+        <img src="" />
+      </div>
+      <div>
+        <img src="" />
+      </div>
+      <div>
+        <img src="" />
+      </div>
+      <div>
+        <img src="" />
+      </div>
+      <div>
+        <img src="" />
+      </div>
+      <div>
+        <img src="" />
+      </div>
+    </div>
+  );
 }
 
 export default AnimePopular;

@@ -27,6 +27,19 @@
   font-weight: 1000;
 }
 
+button {
+  font-family: "Arial Black", Gadget, sans-serif;
+  font-size: 28px;
+  letter-spacing: -2px;
+  word-spacing: -2px;
+  font-weight: 1000;
+
+  background-color: black;
+  border-style: none;
+  color: white;
+  text-align: center;
+}
+
 .home {
   color: white;
   text-align: center;

@@ -1,5 +1,7 @@
+import styles from "./SearchBar.module.css";
+
 function SearchBar() {
-  return <div>SearchBar</div>;
+  return <div className={`${styles.searchBar}`}>SearchBar</div>;
 }
 
 export default SearchBar;
