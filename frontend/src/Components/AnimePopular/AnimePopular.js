@@ -4,31 +4,31 @@ function AnimePopular() {
   return (
     <div className={`${styles.animePopular}`}>
       <div>
-        <img src="" />
+        <img src="" width={"98px"} height={"140px"} />
       </div>
       <div>
-        <img src="" />
+        <img src="" width={"98px"} height={"140px"} />
       </div>
       <div>
-        <img src="" />
+        <img src="" width={"98px"} height={"140px"} />
       </div>
       <div>
-        <img src="" />
+        <img src="" width={"98px"} height={"140px"} />
       </div>
       <div>
-        <img src="" />
+        <img src="" width={"98px"} height={"140px"} />
       </div>
       <div>
-        <img src="" />
+        <img src="" width={"98px"} height={"140px"} />
       </div>
       <div>
-        <img src="" />
+        <img src="" width={"98px"} height={"140px"} />
       </div>
       <div>
-        <img src="" />
+        <img src="" width={"98px"} height={"140px"} />
       </div>
       <div>
-        <img src="" />
+        <img src="" width={"98px"} height={"140px"} />
       </div>
     </div>
   );

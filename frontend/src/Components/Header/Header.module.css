@@ -1,6 +1,6 @@
 .header {
   background-color: black;
-  height: 42px;
+  height: 84px;
   width: 100vw;
 
   justify-items: center;
@@ -11,7 +11,7 @@
 
 .text {
   display: grid;
-  grid-template-columns: 150px 150px 150px 150px;
+  grid-template-columns: 200px 175px 275px 225px;
   grid-template-rows: 100%;
   grid-auto-flow: column;
 
@@ -21,17 +21,17 @@
   align-content: center;
 
   font-family: "Arial Black", Gadget, sans-serif;
-  font-size: 28px;
-  letter-spacing: -2px;
-  word-spacing: -2px;
+  font-size: 37px;
+  letter-spacing: 0px;
+  word-spacing: 0px;
   font-weight: 1000;
 }
 
 button {
   font-family: "Arial Black", Gadget, sans-serif;
-  font-size: 28px;
-  letter-spacing: -2px;
-  word-spacing: -2px;
+  font-size: 37px;
+  letter-spacing: 0px;
+  word-spacing: 0px;
   font-weight: 1000;
 
   background-color: black;
